@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cnc", "Cnc\Cnc.csproj", "{DD2A606C-1234-4A55-BDCF-0A328C12EE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2A606C-1234-4A55-BDCF-0A328C12EE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2A606C-1234-4A55-BDCF-0A328C12EE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2A606C-1234-4A55-BDCF-0A328C12EE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2A606C-1234-4A55-BDCF-0A328C12EE69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC56A78-E36D-4CB2-8172-B00E5AB398D7}
+	EndGlobalSection
+EndGlobal
