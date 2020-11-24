@@ -20,11 +20,21 @@ namespace Cnc
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
+                      "~/Scripts/bootstrap.js",
+                      "~/Scripts/js/bootstrap.min.js",
+                      "~/Scripts/js/bootstrap-select.min.js",
+                      "~/Scripts/js/slick.min.js",
+                      "~/Scripts/js/wow.min.js",
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/site.css",
+                      "~/Content/css/font-awesome.min.css",
+                      "~/Content/css/style.css",
+                      "~/Content/css/bootstrap-select.min.css",
+                      "~/Content/css/slick.min.css",
+                      "~/Content/css/animate-wow.css"));
         }
     }
 }
