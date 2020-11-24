@@ -128,7 +128,7 @@ header .navbar-default .navbar-header {
 
 .navbar-brand {
 	float: left;
-	padding: 21px 15px;
+	/*padding: 21px 15px;*/
 	font-size: 18px;
 	line-height: 20px;
 	height: 66px;
