@@ -216,8 +216,13 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Properties\PublishProfiles\noithattienkhangcnc - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\noithattienkhangcnc - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\noithattienkhangcnc - FTP2.pubxml" />
     <None Include="Properties\PublishProfiles\noithattienkhangcnc - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\noithattienkhangcnc - ReadOnly - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\noithattienkhangcnc - ReadOnly - FTP2.pubxml" />
     <None Include="Properties\PublishProfiles\noithattienkhangcnc - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\noithattienkhangcnc - Web Deploy1.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
